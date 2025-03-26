@@ -1,0 +1,9 @@
+# ignore data repo
+free-spoken-digit-dataset
+
+# venv
+.venv
+
+# others
+__pycache__
+*.pt
