@@ -1,3 +1,5 @@
+# adapted from https://github.com/saztorralba/CNNWordReco 
+
 import math
 import numpy as np
 import soundfile
