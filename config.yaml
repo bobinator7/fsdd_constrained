@@ -1,0 +1,11 @@
+batch_size: 32
+device: cpu
+epochs: 1000
+learning_rate: 0.001
+rnn_hidden: 64
+rnn_layers: 3
+rnn_outputs: 10
+train_val_percentage: 0.1
+verbose: 1
+xsize: 20
+ysize: 20
